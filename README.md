@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SakthiLKoff
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Flask Projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python Projects
+- 📫 How to reach me ... INSTAGRAM - @sakthilk , TELEGRAM - @SAKTHI_LK
 
 <!---
 SakthiLKoff/SakthiLKoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
