@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SakthiLKoff
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Data Science, Programming...
+- 🌱 I’m currently learning Python, Maths...
+- 💞️ I’m looking to collaborate on Python Projects...
 - 📫 How to reach me ... INSTAGRAM - @sakthilk , TELEGRAM - @SAKTHI_LK
 
 <!---
